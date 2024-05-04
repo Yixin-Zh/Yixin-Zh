@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yixin Zhang.
+- 👋 Hi, I’m Yixin.
 - 👀 I’m interested in robotics! 
 
 
